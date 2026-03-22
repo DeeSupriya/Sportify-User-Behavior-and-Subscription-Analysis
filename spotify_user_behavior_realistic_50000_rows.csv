@@ -1,0 +1,500 @@
+user_id,country,age,signup_date,subscription_type,subscription_status,months_inactive,inactive_3_months_flag,ad_interaction,ad_conversion_to_subscription,music_suggestion_rating_1_to_5,avg_listening_hours_per_week,favorite_genre,most_liked_feature,desired_future_feature,primary_device,playlists_created,avg_skips_per_day
+1,France,25,19-08-2021,Premium Duo,Active,0,0,No,No,4,10.13,Bollywood,Radio,Concert Alerts,Tablet,7,8
+2,Indonesia,20,06-06-2022,Premium Family,Active,0,0,Yes,No,5,11.63,Latin,Podcasts,Lyrics Translation,Mobile,7,6
+3,Italy,53,04-01-2024,Premium Individual,Active,0,0,Yes,Yes,3,9.5,Bollywood,Lyrics,Better AI Recommendations,Desktop,6,5
+4,Italy,48,26-08-2018,Premium Individual,Active,1,0,No,No,4,13.16,Electronic,Playlists,Social Listening,Smart Speaker,11,8
+5,Australia,18,29-05-2020,Free,Active,0,0,No,No,4,12.7,Indie,Daily Mix,Lyrics Translation,Tablet,10,11
+6,France,43,19-12-2018,Premium Duo,Active,0,0,No,No,4,12.51,Electronic,AI DJ,Better AI Recommendations,Car System,3,10
+7,Italy,21,09-09-2022,Student,Active,3,1,Yes,Yes,4,8.61,Bollywood,Daily Mix,HiFi Audio,Tablet,13,8
+8,India,43,07-03-2024,Free,Active,1,0,No,No,5,8.14,Pop,Daily Mix,Social Listening,Mobile,5,16
+9,Germany,52,31-08-2018,Premium Family,Active,2,0,No,No,5,7.53,Latin,Discover Weekly,Concert Alerts,Mobile,10,21
+10,India,56,23-05-2019,Premium Duo,Active,1,0,Yes,No,5,8.55,Rock,Playlists,Mood-based Auto Playlists,Tablet,12,17
+11,Germany,53,13-01-2025,Free,Active,1,0,No,No,5,15.16,Classical,Playlists,Lyrics Translation,Car System,8,13
+12,Italy,52,11-09-2018,Premium Individual,Active,3,1,No,No,4,12.7,Country,Discover Weekly,Concert Alerts,Mobile,9,10
+13,UK,41,26-07-2024,Premium Duo,Active,0,0,No,No,5,3.27,K-Pop,Offline Mode,Lyrics Translation,Desktop,8,9
+14,Italy,18,23-07-2018,Premium Family,Active,0,0,Yes,No,5,14.06,R&B,Lyrics,Concert Alerts,Mobile,11,9
+15,Germany,34,30-03-2024,Premium Individual,Active,0,0,Yes,No,1,11.23,Jazz,Radio,Mood-based Auto Playlists,Mobile,11,13
+16,Brazil,23,13-09-2022,Free,Active,1,0,Yes,Yes,5,10.34,Pop,Playlists,Concert Alerts,Smart Speaker,3,12
+17,Australia,35,27-05-2024,Student,Active,0,0,No,No,4,7.99,Pop,AI DJ,Concert Alerts,Tablet,10,8
+18,India,59,13-04-2024,Premium Family,Active,0,0,No,No,4,11.24,Pop,Discover Weekly,HiFi Audio,Tablet,4,10
+19,Indonesia,52,11-01-2020,Student,Active,1,0,Yes,Yes,4,4.63,Latin,Radio,Better AI Recommendations,Mobile,12,10
+20,Brazil,28,01-03-2025,Free,Active,0,0,No,No,2,13.54,Latin,Daily Mix,HiFi Audio,Smart Speaker,12,9
+21,Canada,20,06-03-2022,Student,Active,8,1,Yes,Yes,4,13.48,K-Pop,Playlists,Lyrics Translation,Tablet,7,11
+22,Mexico,19,30-04-2024,Student,Active,1,0,No,No,2,8.74,Latin,Playlists,Lyrics Translation,Smart Speaker,9,9
+23,Canada,59,10-12-2024,Premium Duo,Inactive,8,1,Yes,Yes,4,7.09,Pop,Lyrics,Better AI Recommendations,Tablet,9,6
+24,France,36,18-12-2023,Premium Family,Inactive,3,1,Yes,No,5,9.06,Jazz,Podcasts,HiFi Audio,Tablet,9,14
+25,Canada,53,23-03-2023,Premium Individual,Active,0,0,No,No,1,5.68,Hip-Hop,AI DJ,Social Listening,Car System,4,6
+26,UK,31,31-01-2023,Free,Active,1,0,Yes,No,4,4.48,Bollywood,Playlists,Better AI Recommendations,Car System,9,10
+27,Indonesia,60,07-01-2020,Premium Duo,Inactive,3,1,No,No,3,10.52,Latin,Playlists,Social Listening,Car System,7,20
+28,India,21,26-09-2020,Student,Active,1,0,No,No,4,10.94,Bollywood,Radio,Better AI Recommendations,Car System,9,13
+29,USA,47,10-06-2024,Premium Duo,Active,0,0,Yes,No,3,10.37,Hip-Hop,Lyrics,Mood-based Auto Playlists,Car System,9,12
+30,Spain,34,07-11-2021,Free,Active,0,0,Yes,No,5,8.27,Bollywood,Podcasts,Concert Alerts,Smart Speaker,8,8
+31,Spain,20,30-10-2024,Premium Individual,Active,0,0,No,No,4,9.08,Indie,Offline Mode,HiFi Audio,Mobile,5,12
+32,USA,48,29-04-2019,Free,Active,1,0,No,No,3,13.98,Bollywood,Playlists,Social Listening,Car System,8,6
+33,Mexico,26,09-09-2022,Free,Active,1,0,No,No,5,6.49,K-Pop,AI DJ,Better AI Recommendations,Smart Speaker,8,7
+34,Italy,25,02-11-2021,Free,Active,1,0,No,No,3,2.88,Latin,Playlists,Mood-based Auto Playlists,Tablet,7,10
+35,Brazil,42,26-06-2023,Free,Active,0,0,No,No,1,13.78,Rock,AI DJ,HiFi Audio,Mobile,7,8
+36,Italy,58,10-06-2018,Free,Active,1,0,No,No,5,4.22,Jazz,Radio,HiFi Audio,Mobile,12,13
+37,Italy,52,14-11-2018,Premium Individual,Active,0,0,Yes,No,3,17.59,Electronic,Radio,Concert Alerts,Mobile,13,12
+38,Germany,37,09-07-2021,Free,Active,1,0,No,No,3,13.59,Bollywood,Discover Weekly,Mood-based Auto Playlists,Desktop,7,13
+39,France,47,18-10-2025,Free,Active,1,0,Yes,No,3,8.95,Country,Discover Weekly,Mood-based Auto Playlists,Smart Speaker,4,12
+40,Indonesia,45,03-07-2024,Premium Duo,Active,0,0,No,No,3,19.26,Pop,Playlists,Mood-based Auto Playlists,Desktop,14,10
+41,India,21,09-10-2018,Premium Duo,Active,0,0,No,No,3,13.63,Classical,AI DJ,Better AI Recommendations,Mobile,6,9
+42,USA,58,10-01-2021,Free,Active,2,0,Yes,No,5,14.33,R&B,Daily Mix,Mood-based Auto Playlists,Smart Speaker,8,10
+43,India,19,24-09-2018,Premium Individual,Active,0,0,No,No,4,15.54,Classical,Daily Mix,HiFi Audio,Tablet,15,13
+44,Canada,52,13-11-2025,Free,Active,0,0,Yes,No,5,9.82,Latin,Playlists,Lyrics Translation,Car System,12,9
+45,France,44,22-08-2025,Premium Family,Active,2,0,No,No,3,5.46,Jazz,Radio,HiFi Audio,Tablet,9,10
+46,Australia,58,11-03-2021,Premium Individual,Active,2,0,Yes,No,4,11.99,Latin,AI DJ,HiFi Audio,Car System,5,15
+47,USA,17,22-11-2021,Premium Duo,Active,2,0,No,No,3,4.54,Pop,Daily Mix,HiFi Audio,Car System,4,12
+48,USA,55,07-03-2023,Free,Active,2,0,Yes,No,5,13.35,Country,Offline Mode,Better AI Recommendations,Desktop,6,6
+49,France,47,25-04-2019,Premium Individual,Active,0,0,No,No,4,11.82,Rock,Radio,Concert Alerts,Tablet,7,7
+50,Italy,29,30-08-2018,Free,Active,1,0,No,No,2,14.51,Hip-Hop,AI DJ,Lyrics Translation,Mobile,8,6
+51,India,24,23-03-2021,Premium Duo,Active,1,0,No,No,4,1.83,Electronic,Lyrics,Social Listening,Smart Speaker,8,11
+52,Spain,41,11-10-2020,Free,Active,0,0,No,No,5,6.35,Indie,Offline Mode,Better AI Recommendations,Tablet,11,9
+53,Canada,47,21-05-2022,Student,Active,1,0,No,No,3,9.26,R&B,Offline Mode,HiFi Audio,Tablet,9,6
+54,Canada,41,27-11-2018,Free,Active,0,0,Yes,Yes,1,13.71,Country,Radio,Mood-based Auto Playlists,Smart Speaker,5,13
+55,UK,33,29-02-2024,Premium Individual,Active,0,0,No,No,5,12.88,Hip-Hop,Discover Weekly,Social Listening,Desktop,6,8
+56,Spain,43,15-07-2019,Premium Individual,Active,0,0,No,No,5,16.34,Rock,AI DJ,Concert Alerts,Smart Speaker,12,9
+57,USA,42,03-03-2024,Free,Active,1,0,Yes,No,5,13.08,K-Pop,Radio,HiFi Audio,Tablet,5,12
+58,Australia,59,09-01-2022,Premium Individual,Inactive,4,1,No,No,5,17.53,R&B,Daily Mix,Better AI Recommendations,Tablet,12,9
+59,India,30,08-04-2022,Free,Active,3,1,No,No,4,6.3,Indie,Discover Weekly,Lyrics Translation,Car System,12,10
+60,Brazil,25,11-09-2019,Premium Individual,Active,3,1,Yes,Yes,1,13.55,K-Pop,Radio,Lyrics Translation,Smart Speaker,7,15
+61,UK,58,08-08-2020,Free,Active,1,0,No,No,2,13.83,Rock,Lyrics,HiFi Audio,Mobile,6,13
+62,Germany,16,13-08-2020,Free,Active,0,0,No,No,4,4.3,Latin,Radio,HiFi Audio,Mobile,7,17
+63,Spain,27,10-06-2023,Premium Individual,Active,0,0,Yes,No,5,7.08,Rock,Discover Weekly,Better AI Recommendations,Car System,4,8
+64,Australia,34,12-12-2020,Premium Duo,Active,1,0,No,No,4,9.55,R&B,Playlists,HiFi Audio,Tablet,9,13
+65,Italy,25,17-01-2018,Free,Active,0,0,No,No,5,10.08,Indie,Discover Weekly,Mood-based Auto Playlists,Desktop,7,17
+66,Spain,50,13-09-2022,Free,Active,0,0,No,No,3,9.32,R&B,Daily Mix,Better AI Recommendations,Smart Speaker,9,18
+67,India,55,21-02-2022,Premium Individual,Active,1,0,No,No,4,10.57,Electronic,Podcasts,Better AI Recommendations,Smart Speaker,5,9
+68,India,24,08-05-2024,Premium Individual,Active,0,0,Yes,No,3,16.48,R&B,Playlists,Mood-based Auto Playlists,Desktop,8,5
+69,Indonesia,48,29-09-2025,Free,Active,1,0,No,No,4,6.86,Pop,Podcasts,Concert Alerts,Tablet,11,7
+70,Spain,19,04-12-2024,Premium Duo,Active,1,0,Yes,No,3,10.28,Jazz,Radio,Lyrics Translation,Tablet,9,12
+71,USA,59,14-02-2023,Free,Active,1,0,Yes,No,5,14.61,Electronic,AI DJ,Social Listening,Car System,7,12
+72,Indonesia,41,09-04-2024,Free,Active,2,0,No,No,5,14.86,Country,Lyrics,Concert Alerts,Car System,8,10
+73,Canada,41,19-06-2022,Free,Active,0,0,No,No,3,14.6,K-Pop,Radio,Lyrics Translation,Smart Speaker,13,8
+74,Canada,22,03-06-2022,Premium Individual,Inactive,3,1,No,No,2,12.64,Bollywood,Offline Mode,Better AI Recommendations,Smart Speaker,4,8
+75,USA,56,27-05-2023,Free,Active,0,0,No,No,4,2.75,Indie,Radio,HiFi Audio,Desktop,17,7
+76,USA,19,29-06-2022,Free,Active,1,0,No,No,2,8.78,Bollywood,Lyrics,HiFi Audio,Mobile,4,2
+77,Mexico,20,20-02-2020,Premium Individual,Active,2,0,No,No,5,10.24,Country,Lyrics,Concert Alerts,Tablet,5,10
+78,Spain,44,05-05-2020,Free,Active,1,0,No,No,3,5.65,Pop,AI DJ,Concert Alerts,Car System,5,11
+79,India,54,27-10-2019,Student,Active,0,0,Yes,Yes,5,7.64,Country,Daily Mix,Social Listening,Mobile,11,9
+80,Germany,52,04-08-2018,Free,Inactive,6,1,Yes,Yes,3,13.45,Hip-Hop,Lyrics,Concert Alerts,Desktop,12,7
+81,USA,50,12-09-2019,Premium Individual,Active,2,0,No,No,1,13.39,Country,Playlists,Mood-based Auto Playlists,Tablet,5,5
+82,UK,39,20-02-2019,Free,Active,0,0,No,No,3,3.91,Latin,Discover Weekly,Mood-based Auto Playlists,Car System,10,6
+83,UK,29,18-11-2024,Free,Active,2,0,Yes,Yes,3,11.45,K-Pop,Offline Mode,Better AI Recommendations,Mobile,6,7
+84,Italy,40,20-11-2024,Free,Active,0,0,No,No,3,11.04,Electronic,Daily Mix,Social Listening,Mobile,4,14
+85,Indonesia,56,01-09-2019,Free,Active,1,0,No,No,3,13.03,Latin,Daily Mix,Concert Alerts,Tablet,4,8
+86,Indonesia,54,30-10-2020,Free,Active,0,0,Yes,No,5,13.42,Country,Playlists,Better AI Recommendations,Smart Speaker,6,11
+87,India,23,31-01-2022,Premium Individual,Inactive,6,1,Yes,No,5,12.9,Latin,Playlists,Lyrics Translation,Tablet,13,10
+88,Canada,45,23-06-2023,Free,Active,1,0,Yes,No,4,9.85,Jazz,AI DJ,HiFi Audio,Tablet,10,12
+89,Germany,46,22-05-2023,Premium Family,Active,1,0,No,No,3,0,Indie,Radio,Mood-based Auto Playlists,Car System,12,11
+90,Spain,21,01-07-2021,Premium Individual,Active,1,0,No,No,4,3.86,R&B,Playlists,Mood-based Auto Playlists,Mobile,9,4
+91,Australia,22,14-08-2019,Free,Inactive,4,1,No,No,5,3.08,Bollywood,Radio,Mood-based Auto Playlists,Tablet,11,7
+92,UK,32,04-11-2021,Premium Individual,Active,4,1,No,No,5,11.29,Jazz,Podcasts,Concert Alerts,Smart Speaker,7,8
+93,Mexico,26,15-05-2023,Free,Active,2,0,Yes,No,3,9.46,Latin,Radio,HiFi Audio,Mobile,14,10
+94,France,17,16-10-2023,Free,Active,1,0,No,No,5,10.25,Pop,AI DJ,Social Listening,Car System,7,19
+95,Indonesia,49,20-04-2020,Premium Individual,Active,0,0,No,No,5,7.75,K-Pop,Offline Mode,Social Listening,Car System,6,5
+96,USA,25,21-01-2022,Free,Active,1,0,No,No,5,15.23,Rock,Lyrics,Better AI Recommendations,Car System,8,11
+97,Canada,50,27-09-2025,Free,Active,2,0,No,No,4,11.64,Jazz,Lyrics,Mood-based Auto Playlists,Smart Speaker,10,10
+98,Germany,35,21-04-2018,Free,Active,0,0,Yes,No,2,7.32,Jazz,AI DJ,Better AI Recommendations,Car System,5,9
+99,Canada,60,18-03-2025,Premium Individual,Active,0,0,Yes,No,5,11.56,Indie,Radio,Social Listening,Car System,5,14
+100,France,26,05-12-2020,Free,Active,0,0,Yes,No,4,11.35,Bollywood,Radio,HiFi Audio,Tablet,5,11
+101,Germany,30,27-12-2021,Premium Individual,Active,0,0,No,No,1,8.91,Electronic,Podcasts,Mood-based Auto Playlists,Mobile,9,7
+102,Australia,50,22-12-2023,Premium Individual,Active,2,0,No,No,3,8.99,Pop,Lyrics,HiFi Audio,Tablet,9,14
+103,Indonesia,37,22-08-2023,Student,Active,1,0,No,No,4,13.02,Classical,Discover Weekly,Better AI Recommendations,Tablet,11,16
+104,Australia,28,19-02-2025,Free,Inactive,3,1,Yes,Yes,4,5.22,Jazz,Podcasts,Social Listening,Tablet,10,14
+105,UK,30,07-09-2020,Premium Individual,Active,6,1,Yes,No,3,10.85,Bollywood,Podcasts,Better AI Recommendations,Smart Speaker,5,6
+106,Mexico,49,29-03-2020,Free,Active,0,0,No,No,5,15.13,Latin,Discover Weekly,Social Listening,Smart Speaker,7,10
+107,France,38,12-07-2023,Free,Active,1,0,No,No,4,6.17,R&B,Lyrics,Mood-based Auto Playlists,Mobile,11,16
+108,Spain,17,29-04-2018,Premium Duo,Active,4,1,No,No,3,8.72,Indie,Daily Mix,Better AI Recommendations,Tablet,5,7
+109,India,46,18-02-2021,Premium Individual,Active,0,0,No,No,4,12.31,Country,Playlists,Concert Alerts,Tablet,6,11
+110,Germany,28,27-11-2020,Premium Individual,Active,1,0,No,No,3,10.13,K-Pop,Lyrics,Mood-based Auto Playlists,Car System,10,14
+111,Indonesia,54,07-10-2025,Premium Family,Active,2,0,No,No,5,6.89,Rock,Lyrics,HiFi Audio,Smart Speaker,8,12
+112,UK,38,11-11-2021,Premium Individual,Active,0,0,Yes,No,1,4.38,Indie,Radio,HiFi Audio,Smart Speaker,8,17
+113,Spain,21,02-02-2022,Premium Duo,Active,0,0,No,No,4,9.47,Classical,Daily Mix,Lyrics Translation,Tablet,10,13
+114,Spain,46,22-06-2020,Premium Individual,Active,2,0,Yes,Yes,2,6.16,Hip-Hop,Playlists,Social Listening,Smart Speaker,4,16
+115,Germany,37,16-03-2020,Premium Individual,Active,2,0,No,No,5,5.57,Latin,Playlists,Lyrics Translation,Desktop,12,9
+116,Indonesia,46,17-04-2020,Premium Family,Inactive,6,1,No,No,4,5.22,Bollywood,Discover Weekly,Lyrics Translation,Mobile,12,7
+117,Canada,55,31-12-2024,Premium Individual,Active,0,0,Yes,No,2,2.72,K-Pop,Lyrics,Mood-based Auto Playlists,Tablet,8,13
+118,Italy,57,08-01-2018,Free,Active,1,0,Yes,No,3,11.83,Electronic,Playlists,Concert Alerts,Smart Speaker,6,9
+119,Spain,21,10-11-2021,Free,Active,2,0,Yes,No,4,5.59,Jazz,Offline Mode,Concert Alerts,Tablet,10,9
+120,Italy,23,29-05-2025,Free,Active,3,1,No,No,4,9.36,Classical,Radio,Better AI Recommendations,Tablet,10,14
+121,Mexico,28,11-05-2022,Free,Active,0,0,No,No,5,8.36,Country,Podcasts,Social Listening,Smart Speaker,4,9
+122,Germany,27,13-05-2023,Premium Individual,Active,1,0,No,No,3,4.56,Bollywood,Radio,Lyrics Translation,Mobile,8,8
+123,France,56,13-11-2022,Free,Active,0,0,No,No,2,9.23,Latin,Radio,Lyrics Translation,Car System,6,16
+124,Italy,21,23-09-2021,Free,Active,2,0,No,No,3,15.59,K-Pop,Offline Mode,Concert Alerts,Smart Speaker,6,11
+125,France,41,04-02-2026,Premium Individual,Active,2,0,Yes,No,4,4.87,R&B,Radio,Lyrics Translation,Car System,13,7
+126,USA,26,14-12-2018,Premium Duo,Active,1,0,Yes,No,4,13.69,R&B,Lyrics,Lyrics Translation,Tablet,7,5
+127,USA,17,05-06-2019,Student,Active,1,0,No,No,3,10.71,Hip-Hop,Daily Mix,Lyrics Translation,Tablet,4,10
+128,Canada,53,12-09-2019,Free,Active,0,0,No,No,3,6.05,Bollywood,Podcasts,HiFi Audio,Car System,8,12
+129,Germany,57,22-03-2023,Free,Active,0,0,No,No,5,12.18,R&B,Discover Weekly,HiFi Audio,Mobile,9,10
+130,Italy,54,22-08-2019,Free,Active,0,0,Yes,No,1,13.8,K-Pop,Offline Mode,Concert Alerts,Car System,17,3
+131,Spain,38,27-04-2023,Premium Individual,Active,1,0,Yes,No,4,10.57,K-Pop,Daily Mix,Social Listening,Tablet,8,5
+132,USA,51,01-10-2019,Premium Individual,Active,2,0,No,No,4,17.55,R&B,Discover Weekly,Social Listening,Smart Speaker,10,10
+133,Brazil,16,24-02-2024,Premium Family,Active,2,0,Yes,Yes,3,13.21,Indie,Radio,Mood-based Auto Playlists,Desktop,13,5
+134,India,57,23-02-2026,Premium Duo,Active,1,0,No,No,3,8.38,K-Pop,Offline Mode,HiFi Audio,Smart Speaker,8,8
+135,India,49,25-02-2019,Premium Individual,Active,1,0,No,No,2,16.47,Country,Podcasts,Lyrics Translation,Car System,5,10
+136,UK,43,25-07-2019,Premium Individual,Active,0,0,No,No,5,12.74,Bollywood,Radio,Concert Alerts,Desktop,8,12
+137,Brazil,29,08-03-2020,Free,Active,1,0,No,No,3,14.28,Indie,AI DJ,Lyrics Translation,Car System,10,6
+138,Germany,32,25-04-2018,Premium Individual,Active,2,0,No,No,5,10.25,Pop,Playlists,Mood-based Auto Playlists,Car System,14,8
+139,Germany,31,21-05-2020,Student,Active,1,0,Yes,No,2,12.43,Latin,Daily Mix,Social Listening,Mobile,6,8
+140,USA,50,30-07-2024,Premium Individual,Active,2,0,Yes,No,4,7.39,K-Pop,AI DJ,HiFi Audio,Mobile,6,12
+141,Canada,24,13-09-2022,Student,Active,1,0,No,No,4,4.39,Latin,Daily Mix,Better AI Recommendations,Tablet,6,9
+142,Brazil,38,07-09-2018,Student,Active,0,0,Yes,No,4,11.37,Pop,Offline Mode,Lyrics Translation,Smart Speaker,14,9
+143,UK,49,20-02-2023,Free,Active,2,0,Yes,No,4,9.26,Electronic,Lyrics,Better AI Recommendations,Smart Speaker,7,3
+144,Australia,48,19-09-2022,Free,Active,2,0,No,No,4,10.12,Classical,Radio,Concert Alerts,Car System,8,5
+145,Brazil,50,20-06-2019,Premium Individual,Active,1,0,No,No,5,10.04,Classical,Discover Weekly,Social Listening,Smart Speaker,11,10
+146,India,49,14-09-2019,Free,Inactive,3,1,No,No,3,5.15,Country,Daily Mix,HiFi Audio,Mobile,8,7
+147,France,17,23-09-2023,Premium Individual,Active,0,0,No,No,4,8.49,Rock,Playlists,HiFi Audio,Smart Speaker,7,11
+148,Brazil,27,08-12-2022,Premium Duo,Active,2,0,No,No,3,11.14,Electronic,AI DJ,HiFi Audio,Desktop,6,7
+149,France,16,28-10-2024,Free,Active,1,0,No,No,2,6.96,Pop,Offline Mode,Social Listening,Car System,10,8
+150,Mexico,27,06-09-2019,Premium Individual,Active,2,0,No,No,4,8.07,R&B,Offline Mode,HiFi Audio,Smart Speaker,11,16
+151,India,46,03-08-2019,Premium Family,Active,0,0,No,No,4,14.44,K-Pop,AI DJ,Better AI Recommendations,Smart Speaker,12,9
+152,USA,51,10-12-2024,Free,Inactive,3,1,Yes,No,5,6.06,Pop,AI DJ,Lyrics Translation,Tablet,6,13
+153,Italy,36,10-09-2018,Free,Active,0,0,No,No,5,9.23,K-Pop,Playlists,Lyrics Translation,Tablet,12,13
+154,Australia,51,26-08-2025,Premium Individual,Active,5,1,Yes,No,5,11.79,Jazz,Offline Mode,Mood-based Auto Playlists,Mobile,9,7
+155,Germany,22,31-05-2023,Free,Inactive,3,1,Yes,No,1,5.53,Bollywood,Podcasts,Social Listening,Car System,8,12
+156,Germany,19,13-04-2024,Student,Inactive,3,1,No,No,4,4.97,Latin,AI DJ,HiFi Audio,Mobile,16,11
+157,Italy,28,14-10-2020,Premium Individual,Active,2,0,No,No,4,5.18,Indie,Discover Weekly,Better AI Recommendations,Mobile,11,9
+158,Spain,18,08-02-2021,Premium Individual,Inactive,4,1,No,No,5,6.41,K-Pop,Radio,Concert Alerts,Desktop,7,13
+159,France,48,05-02-2019,Free,Active,0,0,No,No,4,8.15,Electronic,AI DJ,Better AI Recommendations,Mobile,5,11
+160,Australia,51,27-01-2023,Premium Family,Active,0,0,No,No,3,15.35,Hip-Hop,AI DJ,Social Listening,Mobile,3,7
+161,Canada,20,25-04-2018,Premium Individual,Active,0,0,Yes,No,3,15.11,Electronic,Discover Weekly,Lyrics Translation,Tablet,8,10
+162,Australia,48,21-12-2022,Premium Family,Active,1,0,Yes,No,4,14.53,Hip-Hop,Discover Weekly,Lyrics Translation,Mobile,9,8
+163,Spain,48,18-10-2024,Premium Individual,Inactive,5,1,No,No,4,18.15,Bollywood,AI DJ,Mood-based Auto Playlists,Car System,7,12
+164,Canada,60,27-03-2020,Premium Family,Active,0,0,No,No,4,7.45,K-Pop,AI DJ,Social Listening,Car System,9,12
+165,Australia,50,09-02-2021,Premium Individual,Active,0,0,Yes,No,5,6.9,R&B,Lyrics,HiFi Audio,Smart Speaker,4,13
+166,Germany,48,13-05-2023,Free,Active,0,0,No,No,4,12.21,Jazz,Daily Mix,Social Listening,Car System,9,9
+167,Germany,60,11-10-2020,Student,Active,1,0,No,No,4,13.01,R&B,AI DJ,Lyrics Translation,Tablet,7,11
+168,France,32,14-11-2023,Premium Individual,Active,1,0,Yes,No,4,6.78,K-Pop,Playlists,Mood-based Auto Playlists,Smart Speaker,9,13
+169,USA,28,10-04-2024,Free,Active,0,0,No,No,5,15.2,Jazz,AI DJ,Lyrics Translation,Desktop,4,11
+170,Italy,23,08-01-2023,Free,Active,0,0,Yes,Yes,2,10.18,R&B,Radio,Social Listening,Car System,10,10
+171,Brazil,20,27-05-2022,Premium Individual,Active,1,0,Yes,No,3,8.8,Hip-Hop,Daily Mix,Mood-based Auto Playlists,Car System,8,4
+172,Spain,20,12-07-2025,Free,Active,2,0,Yes,Yes,1,3.11,Latin,Daily Mix,Social Listening,Smart Speaker,6,12
+173,India,58,21-05-2020,Premium Individual,Active,0,0,No,No,5,9.82,Indie,AI DJ,Lyrics Translation,Car System,7,9
+174,Canada,25,25-05-2021,Student,Active,0,0,Yes,No,4,13.9,Electronic,Offline Mode,Social Listening,Smart Speaker,10,9
+175,Canada,39,12-01-2026,Student,Active,0,0,Yes,No,4,8.44,R&B,AI DJ,Social Listening,Car System,7,8
+176,Mexico,32,09-08-2019,Premium Duo,Active,0,0,No,No,5,15.16,Pop,Radio,HiFi Audio,Smart Speaker,4,11
+177,Spain,45,17-07-2019,Premium Family,Active,0,0,No,No,3,8.39,Jazz,Radio,Better AI Recommendations,Desktop,15,8
+178,France,22,18-06-2020,Free,Active,1,0,Yes,No,3,4.53,Indie,AI DJ,Lyrics Translation,Desktop,11,6
+179,UK,47,20-06-2022,Free,Active,0,0,No,No,4,11.26,K-Pop,Discover Weekly,Mood-based Auto Playlists,Car System,7,12
+180,Germany,30,29-10-2019,Premium Individual,Active,0,0,Yes,No,3,12.2,K-Pop,Discover Weekly,Social Listening,Car System,12,12
+181,France,48,24-10-2019,Premium Duo,Active,0,0,Yes,No,2,18.15,Pop,AI DJ,Social Listening,Mobile,8,8
+182,Brazil,37,13-07-2022,Premium Individual,Active,4,1,No,No,2,13.28,Electronic,Daily Mix,Mood-based Auto Playlists,Mobile,5,11
+183,Spain,36,22-09-2022,Free,Active,0,0,Yes,Yes,2,13.92,Classical,Radio,Lyrics Translation,Desktop,6,10
+184,France,17,13-01-2019,Free,Active,2,0,Yes,No,5,6.61,Classical,Discover Weekly,HiFi Audio,Mobile,7,13
+185,Canada,51,16-10-2021,Free,Active,0,0,No,No,3,12.86,Indie,AI DJ,Social Listening,Tablet,9,3
+186,Canada,44,22-02-2023,Free,Active,0,0,No,No,4,0.71,Latin,Podcasts,Mood-based Auto Playlists,Smart Speaker,6,10
+187,Indonesia,37,20-11-2025,Premium Individual,Inactive,5,1,Yes,Yes,3,9.04,R&B,Discover Weekly,Better AI Recommendations,Smart Speaker,7,9
+188,India,55,21-10-2023,Free,Active,2,0,No,No,3,16.71,Bollywood,Discover Weekly,Mood-based Auto Playlists,Desktop,6,13
+189,Indonesia,20,25-04-2021,Premium Individual,Active,0,0,Yes,No,4,9.74,Pop,Lyrics,Concert Alerts,Desktop,5,11
+190,Spain,30,08-04-2019,Premium Family,Inactive,3,1,No,No,4,10.43,Electronic,Podcasts,Mood-based Auto Playlists,Car System,16,14
+191,USA,21,06-03-2019,Premium Duo,Active,0,0,No,No,4,10.19,Latin,Offline Mode,Better AI Recommendations,Desktop,8,9
+192,USA,33,23-12-2020,Premium Family,Active,1,0,No,No,2,7.66,Rock,Lyrics,HiFi Audio,Smart Speaker,12,5
+193,Australia,27,12-06-2018,Free,Active,0,0,No,No,4,11.57,K-Pop,Daily Mix,Lyrics Translation,Tablet,12,8
+194,Brazil,43,12-01-2021,Premium Family,Active,1,0,Yes,No,3,18.22,Latin,Discover Weekly,Social Listening,Desktop,7,9
+195,Brazil,32,31-07-2025,Premium Family,Active,2,0,Yes,No,3,7.56,Indie,Daily Mix,Social Listening,Mobile,9,9
+196,USA,25,21-07-2022,Free,Inactive,4,1,No,No,5,7.55,Rock,Radio,HiFi Audio,Mobile,6,8
+197,India,48,07-01-2024,Free,Active,1,0,No,No,4,8.01,Hip-Hop,Playlists,Mood-based Auto Playlists,Car System,7,13
+198,Canada,36,26-05-2024,Premium Individual,Active,0,0,Yes,No,2,8.23,Pop,Discover Weekly,Mood-based Auto Playlists,Smart Speaker,8,6
+199,Australia,33,02-01-2019,Student,Active,0,0,No,No,5,12.41,Electronic,Podcasts,Lyrics Translation,Car System,3,10
+200,Indonesia,60,24-08-2018,Premium Family,Inactive,6,1,No,No,5,8.37,Country,Discover Weekly,Better AI Recommendations,Mobile,7,14
+201,Canada,43,21-01-2020,Free,Active,1,0,No,No,4,14.37,Hip-Hop,Lyrics,Better AI Recommendations,Tablet,6,6
+202,Germany,17,24-10-2018,Student,Active,2,0,Yes,No,4,6.46,R&B,Radio,Concert Alerts,Car System,8,10
+203,USA,21,11-02-2025,Premium Individual,Active,0,0,No,No,4,6.89,Indie,Radio,Lyrics Translation,Mobile,13,13
+204,India,21,03-12-2020,Free,Active,2,0,No,No,5,14.83,Indie,Daily Mix,Lyrics Translation,Car System,8,17
+205,Canada,30,27-10-2024,Free,Active,2,0,No,No,1,6.84,Pop,Podcasts,Better AI Recommendations,Smart Speaker,11,10
+206,Australia,32,30-09-2018,Premium Duo,Active,0,0,No,No,3,8.12,Hip-Hop,Offline Mode,Better AI Recommendations,Car System,11,8
+207,Germany,45,14-05-2019,Premium Individual,Inactive,4,1,No,No,3,13,Hip-Hop,Daily Mix,Lyrics Translation,Desktop,11,12
+208,Canada,37,17-02-2018,Free,Active,1,0,No,No,5,7.89,Bollywood,Discover Weekly,Lyrics Translation,Car System,13,12
+209,France,42,15-03-2024,Premium Individual,Active,3,1,No,No,4,9.58,Pop,AI DJ,Better AI Recommendations,Mobile,10,6
+210,Mexico,18,02-01-2021,Free,Active,0,0,Yes,No,5,11.54,Electronic,Radio,Lyrics Translation,Desktop,5,8
+211,Spain,31,29-11-2023,Free,Active,1,0,No,No,4,5.49,K-Pop,Radio,Better AI Recommendations,Smart Speaker,6,10
+212,Italy,26,25-03-2019,Free,Active,0,0,No,No,2,14.54,Country,AI DJ,HiFi Audio,Desktop,3,6
+213,Mexico,19,08-12-2020,Premium Individual,Active,0,0,No,No,4,9.81,Jazz,Radio,Mood-based Auto Playlists,Tablet,9,10
+214,UK,35,12-01-2020,Free,Active,2,0,Yes,Yes,3,9.57,Rock,Discover Weekly,Mood-based Auto Playlists,Mobile,8,8
+215,Germany,35,19-01-2025,Free,Active,0,0,No,No,5,8.54,Pop,Lyrics,Social Listening,Smart Speaker,13,12
+216,USA,34,16-12-2023,Premium Individual,Inactive,3,1,Yes,No,5,4.02,Pop,Podcasts,Mood-based Auto Playlists,Smart Speaker,5,12
+217,India,48,31-12-2022,Premium Individual,Active,1,0,No,No,5,10.75,Hip-Hop,Discover Weekly,Better AI Recommendations,Mobile,10,10
+218,Indonesia,27,16-07-2025,Free,Active,0,0,No,No,4,13.92,Country,Radio,Mood-based Auto Playlists,Desktop,5,8
+219,Australia,38,13-01-2021,Free,Active,1,0,No,No,5,12.96,Indie,Lyrics,Concert Alerts,Mobile,2,9
+220,Germany,18,16-03-2018,Free,Active,0,0,Yes,No,4,11.57,Bollywood,Discover Weekly,Mood-based Auto Playlists,Tablet,8,9
+221,UK,48,04-03-2018,Free,Active,0,0,Yes,Yes,2,4.05,Bollywood,Lyrics,Mood-based Auto Playlists,Tablet,7,11
+222,Spain,28,07-03-2024,Premium Family,Active,0,0,No,No,3,4.05,Bollywood,Radio,Social Listening,Smart Speaker,10,13
+223,Indonesia,44,08-10-2023,Free,Active,2,0,Yes,No,5,2.66,Electronic,Lyrics,Better AI Recommendations,Tablet,9,12
+224,Brazil,58,12-03-2019,Free,Active,0,0,No,No,4,11.77,Electronic,Playlists,Mood-based Auto Playlists,Tablet,6,7
+225,Spain,47,16-04-2025,Premium Individual,Active,1,0,Yes,No,4,9.96,Bollywood,Lyrics,Lyrics Translation,Tablet,10,8
+226,Brazil,41,15-02-2024,Free,Inactive,4,1,No,No,3,13.14,Pop,Radio,Lyrics Translation,Tablet,11,9
+227,UK,35,07-09-2023,Free,Inactive,3,1,No,No,3,9.78,Bollywood,AI DJ,Mood-based Auto Playlists,Tablet,14,5
+228,Italy,30,17-09-2025,Premium Family,Active,0,0,Yes,Yes,5,17.88,Country,Playlists,Concert Alerts,Smart Speaker,5,6
+229,Indonesia,56,04-11-2021,Free,Active,0,0,Yes,Yes,5,11.34,K-Pop,Daily Mix,Better AI Recommendations,Mobile,8,8
+230,Italy,41,27-07-2019,Free,Active,3,1,No,No,5,17.98,Rock,AI DJ,HiFi Audio,Tablet,6,13
+231,India,24,24-11-2021,Premium Individual,Active,1,0,Yes,No,1,22.7,Hip-Hop,Daily Mix,Lyrics Translation,Mobile,11,12
+232,USA,20,28-02-2018,Premium Individual,Active,0,0,No,No,5,10.88,K-Pop,Radio,Lyrics Translation,Tablet,8,11
+233,UK,32,05-01-2025,Student,Active,0,0,Yes,No,3,10,R&B,Podcasts,Mood-based Auto Playlists,Smart Speaker,5,8
+234,UK,21,31-10-2022,Student,Active,0,0,Yes,Yes,3,9.77,Pop,Offline Mode,Better AI Recommendations,Mobile,4,9
+235,USA,40,17-06-2025,Free,Inactive,3,1,No,No,3,14.32,Indie,Playlists,Concert Alerts,Tablet,14,12
+236,Mexico,34,04-09-2023,Free,Inactive,3,1,Yes,No,4,14.46,Classical,Daily Mix,HiFi Audio,Mobile,19,13
+237,Indonesia,34,18-09-2024,Premium Individual,Active,1,0,Yes,Yes,2,10.75,K-Pop,Podcasts,Concert Alerts,Smart Speaker,8,11
+238,USA,26,05-07-2018,Premium Individual,Active,1,0,Yes,No,1,12.92,Hip-Hop,Playlists,Mood-based Auto Playlists,Smart Speaker,11,16
+239,France,44,06-01-2021,Premium Family,Active,2,0,No,No,1,12.64,R&B,Discover Weekly,Social Listening,Tablet,10,7
+240,India,37,15-01-2018,Free,Active,2,0,Yes,No,2,11.79,Indie,Lyrics,Social Listening,Smart Speaker,12,6
+241,India,36,19-02-2024,Premium Individual,Active,0,0,No,No,5,11.03,Electronic,Discover Weekly,Concert Alerts,Desktop,3,12
+242,Brazil,35,28-09-2020,Premium Individual,Active,0,0,Yes,Yes,4,15.85,R&B,Podcasts,HiFi Audio,Tablet,8,9
+243,Italy,38,11-06-2020,Free,Active,1,0,No,No,4,10.73,Country,Radio,Mood-based Auto Playlists,Mobile,7,13
+244,USA,16,20-01-2020,Premium Individual,Inactive,5,1,No,No,4,7.45,Rock,Playlists,Mood-based Auto Playlists,Desktop,8,5
+245,Canada,46,05-10-2021,Free,Active,9,1,Yes,No,4,3.39,Indie,Playlists,Concert Alerts,Mobile,5,6
+246,India,48,16-02-2021,Premium Individual,Active,0,0,No,No,4,8.27,Jazz,Daily Mix,Mood-based Auto Playlists,Smart Speaker,11,12
+247,France,28,11-05-2025,Free,Active,1,0,No,No,4,18.54,Indie,Podcasts,Lyrics Translation,Mobile,12,15
+248,Germany,48,13-10-2020,Premium Individual,Active,0,0,No,No,5,5.88,Bollywood,Offline Mode,Lyrics Translation,Car System,5,11
+249,UK,21,21-01-2018,Premium Individual,Active,0,0,Yes,Yes,4,6.41,Indie,AI DJ,Better AI Recommendations,Mobile,8,12
+250,Mexico,18,13-08-2019,Free,Active,0,0,Yes,No,5,11.17,Indie,AI DJ,Concert Alerts,Tablet,4,8
+251,Mexico,17,02-06-2022,Free,Active,1,0,No,No,3,14.19,Latin,Podcasts,Lyrics Translation,Car System,13,4
+252,Brazil,35,12-05-2021,Premium Duo,Active,1,0,No,No,3,7.33,K-Pop,Discover Weekly,Better AI Recommendations,Desktop,7,13
+253,Mexico,30,23-01-2025,Premium Individual,Inactive,6,1,No,No,5,6.56,Bollywood,Playlists,Mood-based Auto Playlists,Car System,5,13
+254,Italy,53,13-12-2018,Free,Inactive,3,1,No,No,4,8.62,Electronic,Podcasts,Social Listening,Car System,7,7
+255,India,25,08-12-2023,Premium Individual,Active,0,0,Yes,No,3,14.61,R&B,Discover Weekly,Concert Alerts,Smart Speaker,12,9
+256,Indonesia,54,17-05-2025,Premium Individual,Active,0,0,No,No,4,12.66,Hip-Hop,Offline Mode,Better AI Recommendations,Desktop,9,9
+257,Spain,36,15-05-2022,Premium Individual,Active,1,0,No,No,5,13.1,R&B,Podcasts,Concert Alerts,Tablet,5,4
+258,Indonesia,47,30-01-2026,Free,Active,0,0,No,No,3,13.45,Latin,Daily Mix,Better AI Recommendations,Car System,11,7
+259,Italy,34,05-09-2019,Premium Individual,Inactive,4,1,No,No,5,6.48,Hip-Hop,Offline Mode,Mood-based Auto Playlists,Mobile,9,12
+260,Australia,55,14-02-2026,Free,Active,1,0,No,No,4,11.09,Hip-Hop,Radio,Better AI Recommendations,Mobile,5,10
+261,Italy,25,19-03-2025,Free,Active,1,0,No,No,2,6.15,Latin,Playlists,Social Listening,Car System,11,7
+262,Spain,48,29-06-2018,Premium Family,Active,0,0,Yes,No,3,17.3,Bollywood,Podcasts,Better AI Recommendations,Desktop,8,8
+263,India,60,13-01-2025,Free,Active,2,0,Yes,No,4,7.82,Bollywood,Lyrics,Lyrics Translation,Tablet,4,8
+264,Mexico,24,02-09-2023,Free,Active,0,0,No,No,4,9.64,Rock,Discover Weekly,Social Listening,Mobile,8,11
+265,Spain,48,16-11-2023,Premium Individual,Active,2,0,No,No,3,13.61,Country,Podcasts,HiFi Audio,Smart Speaker,9,8
+266,UK,17,17-05-2024,Premium Individual,Active,1,0,No,No,5,7.95,Classical,Discover Weekly,Mood-based Auto Playlists,Car System,9,10
+267,France,53,12-09-2025,Free,Active,0,0,No,No,5,10.92,Rock,Podcasts,Mood-based Auto Playlists,Mobile,8,6
+268,Germany,60,23-12-2025,Premium Family,Active,2,0,Yes,No,2,13.74,Rock,Podcasts,Social Listening,Smart Speaker,9,7
+269,Mexico,30,18-03-2025,Premium Duo,Active,0,0,No,No,4,12.31,Jazz,AI DJ,Concert Alerts,Smart Speaker,13,6
+270,France,17,15-12-2018,Premium Family,Active,2,0,No,No,4,8.75,Jazz,Discover Weekly,Social Listening,Smart Speaker,8,16
+271,UK,24,21-06-2018,Free,Active,1,0,No,No,4,13.79,Hip-Hop,Podcasts,Social Listening,Mobile,4,17
+272,Italy,39,22-02-2025,Free,Active,2,0,No,No,4,7.16,Latin,AI DJ,Mood-based Auto Playlists,Tablet,5,10
+273,Spain,40,06-03-2019,Student,Active,1,0,No,No,5,14.4,Hip-Hop,Radio,Mood-based Auto Playlists,Smart Speaker,8,11
+274,Spain,51,23-01-2023,Free,Active,1,0,No,No,4,12.2,Indie,AI DJ,Lyrics Translation,Tablet,9,13
+275,Australia,56,27-07-2018,Free,Active,0,0,No,No,4,8.98,Hip-Hop,Radio,Concert Alerts,Desktop,9,13
+276,Mexico,56,19-03-2018,Premium Family,Active,1,0,No,No,5,8.12,Latin,Lyrics,Mood-based Auto Playlists,Smart Speaker,11,11
+277,USA,59,17-12-2023,Premium Individual,Active,1,0,No,No,4,16.99,Indie,Discover Weekly,Better AI Recommendations,Desktop,10,8
+278,UK,47,28-09-2020,Free,Active,0,0,No,No,3,3.83,Classical,Playlists,Lyrics Translation,Mobile,6,10
+279,France,20,16-12-2020,Free,Active,2,0,Yes,Yes,4,6.52,Hip-Hop,Playlists,Mood-based Auto Playlists,Car System,7,13
+280,Italy,21,23-08-2023,Premium Duo,Active,1,0,Yes,No,5,12.9,Jazz,Playlists,Lyrics Translation,Desktop,10,14
+281,Spain,49,24-05-2025,Free,Active,0,0,No,No,4,3.86,R&B,Offline Mode,Mood-based Auto Playlists,Tablet,10,14
+282,Indonesia,46,28-09-2018,Free,Active,2,0,No,No,1,8.4,Hip-Hop,Discover Weekly,Mood-based Auto Playlists,Car System,6,10
+283,Italy,32,29-10-2020,Free,Active,1,0,Yes,No,4,0,Classical,Offline Mode,HiFi Audio,Smart Speaker,9,14
+284,UK,29,19-08-2020,Premium Individual,Active,1,0,Yes,No,5,6.51,Jazz,Lyrics,Better AI Recommendations,Tablet,9,10
+285,India,57,03-08-2020,Free,Active,0,0,No,No,2,13.31,Latin,Lyrics,Lyrics Translation,Mobile,8,8
+286,Mexico,47,01-03-2023,Premium Individual,Active,0,0,No,No,3,4.02,Electronic,Radio,Better AI Recommendations,Car System,10,9
+287,Italy,20,16-04-2022,Free,Active,2,0,No,No,4,1.96,Latin,Daily Mix,HiFi Audio,Desktop,6,14
+288,Brazil,59,17-05-2023,Premium Individual,Active,2,0,No,No,5,9.53,Latin,Daily Mix,Social Listening,Smart Speaker,9,9
+289,Germany,55,22-03-2021,Premium Individual,Active,2,0,Yes,No,5,9.18,Hip-Hop,AI DJ,Better AI Recommendations,Mobile,9,8
+290,Spain,20,04-02-2025,Free,Active,1,0,Yes,No,2,3.96,Bollywood,Discover Weekly,Better AI Recommendations,Car System,7,5
+291,Canada,25,22-09-2024,Free,Inactive,9,1,No,No,3,15.68,K-Pop,Offline Mode,Social Listening,Mobile,9,6
+292,USA,32,20-09-2021,Premium Individual,Active,0,0,No,No,3,15.04,Electronic,Lyrics,Concert Alerts,Mobile,5,13
+293,Italy,60,22-04-2025,Premium Individual,Active,1,0,No,No,4,12.91,K-Pop,AI DJ,Mood-based Auto Playlists,Desktop,1,5
+294,UK,24,31-05-2021,Premium Individual,Active,1,0,Yes,No,4,13.51,Latin,Daily Mix,Mood-based Auto Playlists,Tablet,5,7
+295,Mexico,46,21-02-2018,Student,Inactive,3,1,No,No,4,9.12,Bollywood,Radio,Better AI Recommendations,Smart Speaker,5,15
+296,Germany,47,06-09-2018,Premium Individual,Inactive,3,1,No,No,4,4.88,Bollywood,AI DJ,Lyrics Translation,Smart Speaker,6,10
+297,Australia,59,05-01-2021,Free,Active,2,0,No,No,3,0.61,Latin,Daily Mix,Mood-based Auto Playlists,Mobile,6,8
+298,Germany,60,12-02-2019,Free,Active,2,0,No,No,4,8.78,Classical,Radio,Social Listening,Car System,10,10
+299,Spain,34,10-06-2020,Student,Active,2,0,Yes,No,5,8.04,Latin,Podcasts,Lyrics Translation,Tablet,7,12
+300,Italy,45,13-12-2025,Free,Inactive,3,1,Yes,No,4,12.56,Rock,Daily Mix,Social Listening,Mobile,6,15
+301,India,23,24-03-2023,Premium Individual,Active,7,1,Yes,No,5,8.98,Country,Lyrics,Better AI Recommendations,Car System,7,9
+302,Australia,28,28-02-2024,Free,Active,1,0,No,No,4,9.52,Indie,Offline Mode,Lyrics Translation,Mobile,10,14
+303,Mexico,46,30-06-2021,Premium Individual,Inactive,4,1,Yes,No,5,9,Jazz,Playlists,Social Listening,Car System,12,9
+304,USA,34,13-03-2018,Free,Active,1,0,No,No,5,6.9,Bollywood,Radio,Mood-based Auto Playlists,Desktop,7,14
+305,Spain,20,23-02-2023,Free,Active,0,0,No,No,4,9.85,Bollywood,Offline Mode,HiFi Audio,Car System,8,11
+306,France,44,07-09-2023,Free,Active,2,0,No,No,2,3.52,K-Pop,Lyrics,HiFi Audio,Smart Speaker,4,10
+307,Brazil,40,05-01-2021,Premium Individual,Active,0,0,No,No,4,9.14,Rock,Podcasts,Mood-based Auto Playlists,Smart Speaker,2,13
+308,Indonesia,29,09-05-2020,Premium Duo,Active,1,0,Yes,No,4,13.11,Rock,Podcasts,Better AI Recommendations,Tablet,9,4
+309,France,53,02-11-2018,Premium Individual,Inactive,5,1,No,No,3,12.04,Jazz,Offline Mode,Concert Alerts,Tablet,9,4
+310,Brazil,25,05-01-2019,Premium Individual,Active,1,0,No,No,2,14.48,Jazz,Daily Mix,HiFi Audio,Car System,9,12
+311,Germany,32,17-11-2023,Student,Inactive,3,1,No,No,4,5.01,Hip-Hop,Radio,Concert Alerts,Tablet,11,9
+312,UK,24,12-01-2022,Free,Inactive,3,1,No,No,4,12.79,Bollywood,Lyrics,Social Listening,Desktop,8,11
+313,Canada,56,07-10-2024,Free,Active,1,0,No,No,4,4.59,Latin,Lyrics,Concert Alerts,Mobile,7,11
+314,Italy,33,15-09-2023,Premium Individual,Active,3,1,No,No,5,10.36,Electronic,Offline Mode,Lyrics Translation,Smart Speaker,4,10
+315,Germany,39,07-04-2019,Free,Active,4,1,No,No,4,8.39,K-Pop,Daily Mix,Social Listening,Smart Speaker,8,7
+316,Mexico,47,05-08-2020,Free,Active,1,0,No,No,5,7.85,Jazz,AI DJ,Mood-based Auto Playlists,Smart Speaker,6,7
+317,Indonesia,26,15-06-2023,Free,Active,0,0,Yes,No,3,12.03,Bollywood,Lyrics,Lyrics Translation,Desktop,6,8
+318,France,47,15-01-2018,Premium Family,Active,0,0,No,No,3,6.19,Bollywood,Discover Weekly,Concert Alerts,Mobile,6,10
+319,USA,35,23-08-2025,Premium Individual,Active,1,0,Yes,No,5,8.1,R&B,Daily Mix,Lyrics Translation,Tablet,5,5
+320,Australia,38,26-02-2026,Free,Active,0,0,Yes,Yes,5,8.12,Country,Offline Mode,Mood-based Auto Playlists,Tablet,10,11
+321,Australia,36,21-03-2022,Premium Individual,Active,0,0,No,No,4,16.2,Country,Discover Weekly,Lyrics Translation,Tablet,5,5
+322,Germany,37,11-05-2019,Premium Individual,Active,1,0,No,No,4,1.63,Classical,Daily Mix,Lyrics Translation,Tablet,6,10
+323,Indonesia,36,08-01-2018,Student,Active,1,0,No,No,4,9.49,Pop,Lyrics,Concert Alerts,Car System,10,10
+324,France,41,17-10-2021,Student,Active,1,0,No,No,4,7.23,Classical,AI DJ,Lyrics Translation,Tablet,4,13
+325,UK,28,07-05-2019,Premium Individual,Active,0,0,Yes,No,4,8.37,K-Pop,AI DJ,Lyrics Translation,Smart Speaker,9,8
+326,France,16,30-12-2025,Student,Active,1,0,No,No,5,7.47,Electronic,AI DJ,HiFi Audio,Tablet,7,10
+327,Canada,20,02-04-2021,Premium Individual,Active,1,0,Yes,No,4,12.95,Pop,Lyrics,Concert Alerts,Smart Speaker,12,8
+328,UK,40,29-05-2022,Free,Active,0,0,No,No,5,10.69,Classical,AI DJ,Social Listening,Car System,9,15
+329,India,43,10-08-2024,Premium Duo,Active,0,0,Yes,Yes,3,9.17,Indie,Podcasts,HiFi Audio,Car System,6,13
+330,Canada,19,01-02-2021,Free,Active,0,0,No,No,4,9.85,R&B,Radio,Social Listening,Desktop,4,12
+331,Italy,22,23-02-2021,Free,Active,0,0,No,No,3,9.01,Indie,Podcasts,Better AI Recommendations,Desktop,6,8
+332,Australia,34,31-07-2018,Premium Individual,Active,0,0,Yes,No,5,13.92,Latin,Discover Weekly,HiFi Audio,Smart Speaker,5,8
+333,UK,31,13-02-2025,Premium Duo,Inactive,4,1,Yes,No,3,15.46,Classical,Radio,Mood-based Auto Playlists,Desktop,10,8
+334,Spain,43,24-12-2020,Free,Active,2,0,No,No,3,3.72,K-Pop,Lyrics,Mood-based Auto Playlists,Smart Speaker,10,8
+335,France,36,24-09-2023,Premium Family,Active,0,0,No,No,5,17.71,R&B,Radio,Better AI Recommendations,Tablet,10,10
+336,Germany,39,17-02-2020,Premium Individual,Active,0,0,No,No,5,15.95,Pop,AI DJ,Lyrics Translation,Desktop,6,11
+337,Australia,17,19-10-2022,Free,Active,2,0,No,No,3,12.18,Jazz,Daily Mix,Lyrics Translation,Mobile,9,12
+338,USA,51,28-01-2025,Free,Active,1,0,Yes,No,3,7.02,Pop,Daily Mix,Better AI Recommendations,Desktop,6,13
+339,Spain,21,28-02-2024,Premium Family,Inactive,3,1,Yes,Yes,4,7.09,Bollywood,Daily Mix,Social Listening,Car System,16,7
+340,Mexico,42,22-07-2018,Free,Active,1,0,No,No,4,11.75,Country,Daily Mix,Social Listening,Desktop,9,8
+341,Spain,55,21-01-2023,Free,Active,0,0,No,No,5,8.79,Latin,Daily Mix,Concert Alerts,Tablet,7,8
+342,Spain,57,22-07-2019,Premium Individual,Active,1,0,No,No,2,12.32,Hip-Hop,Discover Weekly,Better AI Recommendations,Car System,8,4
+343,Germany,51,18-03-2021,Premium Individual,Active,1,0,Yes,No,2,13.83,Pop,Discover Weekly,Concert Alerts,Mobile,11,8
+344,Spain,26,06-06-2019,Premium Individual,Active,0,0,No,No,3,12.45,Electronic,Radio,Concert Alerts,Tablet,8,8
+345,Mexico,42,19-04-2023,Premium Family,Active,1,0,No,No,2,15.31,Hip-Hop,Podcasts,Mood-based Auto Playlists,Desktop,12,6
+346,Germany,34,08-11-2021,Free,Active,0,0,No,No,4,16.26,Bollywood,Playlists,Social Listening,Desktop,3,11
+347,India,32,04-05-2021,Premium Family,Active,3,1,No,No,4,17.78,Latin,AI DJ,Concert Alerts,Smart Speaker,2,8
+348,Germany,32,27-04-2025,Premium Individual,Active,1,0,No,No,4,6.37,Indie,Daily Mix,Mood-based Auto Playlists,Smart Speaker,8,8
+349,USA,57,22-07-2022,Free,Active,1,0,No,No,4,6.58,Bollywood,Offline Mode,Better AI Recommendations,Mobile,2,13
+350,India,51,04-09-2020,Premium Duo,Active,2,0,Yes,No,5,9.21,Electronic,Offline Mode,Social Listening,Smart Speaker,6,15
+351,UK,41,02-07-2025,Premium Individual,Inactive,6,1,No,No,4,1.97,K-Pop,Lyrics,Lyrics Translation,Mobile,6,15
+352,Australia,26,06-05-2019,Free,Active,2,0,No,No,5,14.74,Jazz,Lyrics,Better AI Recommendations,Tablet,8,11
+353,UK,26,19-03-2025,Premium Family,Active,0,0,No,No,4,1.34,R&B,Discover Weekly,Lyrics Translation,Mobile,7,11
+354,Canada,29,04-11-2018,Free,Inactive,4,1,No,No,3,13.67,Country,AI DJ,Lyrics Translation,Tablet,3,12
+355,Australia,47,13-08-2023,Free,Active,2,0,Yes,No,2,8.45,Pop,Radio,HiFi Audio,Tablet,11,11
+356,India,30,04-03-2024,Free,Active,0,0,No,No,3,1.77,Pop,Radio,Social Listening,Car System,16,13
+357,Australia,44,30-01-2023,Student,Inactive,4,1,Yes,No,5,5.51,Jazz,Discover Weekly,Lyrics Translation,Smart Speaker,8,6
+358,UK,24,17-10-2022,Student,Active,0,0,No,No,5,14.89,Latin,Playlists,Social Listening,Mobile,9,11
+359,USA,28,22-02-2024,Free,Active,0,0,No,No,3,8.46,Latin,Radio,Mood-based Auto Playlists,Mobile,12,9
+360,India,21,26-09-2020,Premium Duo,Active,2,0,No,No,4,19.72,Indie,Offline Mode,Lyrics Translation,Smart Speaker,8,13
+361,Australia,37,17-12-2019,Free,Active,1,0,No,No,4,8.11,Country,Daily Mix,Lyrics Translation,Smart Speaker,8,5
+362,UK,31,26-03-2024,Premium Individual,Active,2,0,Yes,Yes,3,11.88,K-Pop,Playlists,Better AI Recommendations,Smart Speaker,6,6
+363,Spain,32,17-02-2022,Premium Individual,Active,1,0,No,No,3,17.03,K-Pop,Offline Mode,Lyrics Translation,Smart Speaker,11,16
+364,Australia,17,22-05-2024,Free,Active,0,0,Yes,Yes,3,5.93,Jazz,Radio,Lyrics Translation,Desktop,5,7
+365,France,40,18-08-2022,Free,Active,8,1,No,No,4,7.79,Rock,Daily Mix,HiFi Audio,Mobile,7,14
+366,Indonesia,49,23-08-2022,Premium Duo,Active,1,0,No,No,5,13.76,Electronic,Lyrics,Concert Alerts,Mobile,5,9
+367,India,40,10-05-2020,Student,Active,0,0,No,No,4,12.45,Classical,Radio,Concert Alerts,Car System,9,8
+368,India,19,11-01-2021,Premium Family,Active,2,0,Yes,No,4,7.58,Bollywood,AI DJ,HiFi Audio,Car System,7,11
+369,Germany,33,03-08-2023,Premium Individual,Inactive,4,1,No,No,4,19.59,Classical,Daily Mix,HiFi Audio,Mobile,8,6
+370,Indonesia,39,10-06-2024,Premium Individual,Active,1,0,No,No,4,10.6,Jazz,Playlists,Social Listening,Tablet,7,9
+371,Australia,59,31-05-2019,Free,Active,0,0,No,No,2,12.23,Electronic,Lyrics,HiFi Audio,Smart Speaker,9,13
+372,Italy,29,24-08-2023,Free,Active,0,0,Yes,No,5,15.5,K-Pop,Playlists,Concert Alerts,Tablet,14,5
+373,Australia,33,15-01-2019,Free,Active,5,1,No,No,1,8.88,Hip-Hop,AI DJ,Social Listening,Car System,13,9
+374,Mexico,40,14-10-2020,Premium Duo,Inactive,8,1,No,No,5,10.2,Country,AI DJ,HiFi Audio,Car System,2,15
+375,Australia,43,26-06-2022,Free,Active,1,0,Yes,No,3,10.55,Latin,AI DJ,Social Listening,Mobile,6,12
+376,Spain,17,02-07-2021,Premium Family,Active,0,0,Yes,No,2,10.31,R&B,Radio,Better AI Recommendations,Mobile,6,8
+377,Mexico,46,06-06-2019,Premium Individual,Active,0,0,Yes,Yes,4,5.46,Indie,Lyrics,Lyrics Translation,Car System,5,11
+378,UK,20,02-08-2024,Free,Active,2,0,Yes,No,1,11.1,Rock,Discover Weekly,HiFi Audio,Mobile,7,11
+379,France,49,23-05-2022,Premium Individual,Active,0,0,Yes,No,3,7.96,Country,Podcasts,Concert Alerts,Car System,8,14
+380,USA,44,02-04-2023,Premium Duo,Inactive,6,1,No,No,3,9.25,Country,Daily Mix,Concert Alerts,Tablet,11,10
+381,Australia,22,14-10-2020,Free,Active,0,0,No,No,4,9.5,Electronic,Podcasts,Lyrics Translation,Smart Speaker,11,13
+382,France,25,05-07-2020,Premium Individual,Active,2,0,No,No,3,2.41,Hip-Hop,Daily Mix,Lyrics Translation,Desktop,9,8
+383,France,59,15-09-2019,Free,Active,0,0,Yes,No,4,2.74,Latin,Playlists,Mood-based Auto Playlists,Smart Speaker,9,19
+384,Italy,60,23-03-2019,Free,Active,0,0,No,No,1,10.39,Bollywood,Podcasts,Mood-based Auto Playlists,Desktop,10,15
+385,Italy,45,05-04-2025,Free,Inactive,5,1,Yes,No,4,4.69,Classical,Playlists,HiFi Audio,Car System,5,13
+386,Spain,51,15-12-2018,Premium Individual,Active,1,0,No,No,4,12.63,K-Pop,Playlists,Lyrics Translation,Car System,10,12
+387,Australia,16,11-06-2018,Free,Active,2,0,No,No,1,12.02,Jazz,Lyrics,HiFi Audio,Mobile,9,8
+388,USA,18,30-05-2019,Free,Active,2,0,Yes,Yes,5,10.1,Indie,Discover Weekly,Social Listening,Smart Speaker,9,14
+389,France,35,28-03-2025,Free,Active,2,0,No,No,5,9.79,Indie,Discover Weekly,HiFi Audio,Smart Speaker,7,9
+390,Australia,49,09-06-2019,Free,Active,5,1,Yes,No,4,10.98,Country,Podcasts,HiFi Audio,Car System,6,8
+391,Canada,43,19-02-2025,Student,Inactive,5,1,No,No,4,16.26,K-Pop,Daily Mix,Concert Alerts,Tablet,11,11
+392,Canada,23,01-11-2025,Premium Individual,Active,1,0,No,No,3,9.13,Rock,Podcasts,Better AI Recommendations,Mobile,9,12
+393,Canada,20,12-02-2019,Free,Active,1,0,No,No,4,9.22,Bollywood,Radio,HiFi Audio,Desktop,8,11
+394,Germany,49,15-05-2021,Free,Active,1,0,No,No,5,3.89,Pop,Playlists,Mood-based Auto Playlists,Smart Speaker,4,9
+395,France,32,15-07-2024,Free,Active,2,0,Yes,Yes,2,12.54,Electronic,Discover Weekly,Concert Alerts,Mobile,9,7
+396,France,54,04-07-2020,Premium Individual,Inactive,5,1,No,No,4,6.86,Rock,Daily Mix,Social Listening,Mobile,8,10
+397,Italy,16,05-01-2018,Student,Active,0,0,No,No,5,11.09,K-Pop,Podcasts,Social Listening,Car System,10,13
+398,Italy,45,11-01-2024,Premium Individual,Active,0,0,Yes,No,5,5.89,Indie,Lyrics,Concert Alerts,Mobile,8,9
+399,Canada,36,15-02-2021,Premium Duo,Active,3,1,No,No,4,9.75,Electronic,Lyrics,HiFi Audio,Smart Speaker,6,7
+400,Australia,31,25-03-2025,Free,Active,2,0,Yes,No,3,6.07,Indie,Daily Mix,Lyrics Translation,Mobile,4,7
+401,Brazil,49,01-05-2023,Premium Individual,Active,1,0,No,No,4,10.08,Bollywood,Offline Mode,Lyrics Translation,Car System,5,11
+402,Brazil,17,19-08-2020,Premium Individual,Active,2,0,Yes,No,3,8.59,Latin,Radio,HiFi Audio,Mobile,8,9
+403,Indonesia,35,14-08-2022,Free,Active,1,0,Yes,No,5,15.12,Indie,Lyrics,Social Listening,Tablet,10,12
+404,Indonesia,17,15-08-2018,Premium Individual,Active,1,0,No,No,5,4.87,Hip-Hop,AI DJ,Social Listening,Desktop,6,8
+405,Canada,47,06-03-2020,Premium Family,Active,0,0,No,No,3,6.36,Rock,Daily Mix,Concert Alerts,Desktop,9,15
+406,Germany,57,25-07-2025,Premium Individual,Active,0,0,No,No,5,16.92,Pop,Lyrics,Social Listening,Tablet,8,8
+407,Australia,30,17-09-2022,Free,Active,0,0,Yes,Yes,2,13.65,Electronic,Daily Mix,Lyrics Translation,Smart Speaker,3,12
+408,Germany,43,26-06-2025,Premium Individual,Active,0,0,No,No,4,13.67,Indie,Discover Weekly,Mood-based Auto Playlists,Car System,10,10
+409,Australia,30,25-02-2022,Premium Individual,Inactive,3,1,No,No,5,12.45,K-Pop,Discover Weekly,Concert Alerts,Tablet,4,8
+410,Spain,18,13-07-2023,Premium Individual,Active,2,0,No,No,5,9.22,Pop,Radio,Social Listening,Car System,9,10
+411,Brazil,42,21-10-2025,Free,Active,0,0,Yes,No,4,14.87,Country,AI DJ,Lyrics Translation,Tablet,6,9
+412,Italy,59,24-01-2022,Student,Active,1,0,No,No,2,10.67,K-Pop,Discover Weekly,Concert Alerts,Desktop,10,7
+413,France,28,12-06-2022,Premium Duo,Inactive,6,1,No,No,3,6.95,Classical,Daily Mix,Social Listening,Desktop,9,7
+414,Germany,34,28-01-2018,Student,Active,0,0,No,No,5,7.38,K-Pop,Daily Mix,Better AI Recommendations,Mobile,8,5
+415,UK,47,30-08-2023,Free,Active,0,0,Yes,Yes,2,8.01,Latin,Daily Mix,Social Listening,Car System,10,9
+416,Germany,35,31-03-2020,Free,Active,1,0,No,No,4,13.14,Rock,Playlists,Mood-based Auto Playlists,Smart Speaker,11,7
+417,UK,30,05-03-2020,Premium Individual,Active,0,0,Yes,Yes,5,6.64,Bollywood,Radio,HiFi Audio,Car System,11,12
+418,Australia,34,21-12-2020,Premium Family,Active,1,0,No,No,3,6.94,Bollywood,Offline Mode,Better AI Recommendations,Car System,6,12
+419,Indonesia,55,23-03-2019,Premium Family,Active,1,0,No,No,4,13.43,Country,Podcasts,Social Listening,Smart Speaker,7,12
+420,USA,30,24-07-2023,Free,Inactive,3,1,Yes,No,2,9.18,Electronic,Discover Weekly,Social Listening,Smart Speaker,9,11
+421,USA,42,10-06-2023,Free,Active,2,0,No,No,4,19.52,Jazz,Lyrics,Better AI Recommendations,Tablet,13,17
+422,USA,54,18-06-2025,Free,Active,0,0,Yes,Yes,5,21.04,Rock,AI DJ,Mood-based Auto Playlists,Desktop,9,11
+423,India,19,23-08-2019,Premium Family,Active,3,1,Yes,No,3,3.03,Jazz,Podcasts,Concert Alerts,Tablet,4,13
+424,France,17,22-05-2020,Free,Active,2,0,No,No,5,1.8,Pop,Offline Mode,HiFi Audio,Smart Speaker,9,3
+425,France,19,07-09-2024,Student,Active,1,0,Yes,Yes,5,4.38,Rock,Offline Mode,HiFi Audio,Car System,6,15
+426,Mexico,41,17-12-2025,Free,Active,1,0,Yes,Yes,4,9.4,R&B,Offline Mode,Social Listening,Desktop,9,8
+427,USA,36,16-01-2023,Premium Individual,Active,2,0,Yes,No,3,11.24,Country,Offline Mode,Better AI Recommendations,Car System,4,12
+428,Brazil,26,09-04-2019,Free,Inactive,6,1,Yes,No,4,12.74,K-Pop,Daily Mix,Better AI Recommendations,Car System,8,17
+429,Australia,28,10-09-2021,Premium Individual,Active,2,0,No,No,4,12.9,Rock,Playlists,HiFi Audio,Smart Speaker,6,11
+430,Indonesia,57,30-01-2020,Free,Active,2,0,No,No,2,15.16,Electronic,Podcasts,Better AI Recommendations,Car System,5,17
+431,Canada,45,20-11-2023,Premium Family,Active,1,0,No,No,5,10.6,Latin,Lyrics,HiFi Audio,Car System,10,6
+432,UK,35,11-05-2018,Premium Individual,Active,2,0,No,No,5,9.29,Country,Lyrics,Social Listening,Smart Speaker,7,4
+433,India,39,14-06-2025,Free,Active,0,0,Yes,No,2,14.74,Bollywood,Radio,Concert Alerts,Tablet,6,7
+434,France,22,20-09-2021,Premium Duo,Active,1,0,Yes,No,3,10.2,R&B,AI DJ,Concert Alerts,Tablet,9,12
+435,India,21,12-01-2018,Free,Inactive,7,1,No,No,3,7.72,K-Pop,Podcasts,Lyrics Translation,Smart Speaker,8,9
+436,UK,21,20-02-2021,Free,Active,0,0,No,No,5,10.04,Jazz,Lyrics,Mood-based Auto Playlists,Desktop,11,6
+437,Germany,42,10-12-2021,Premium Family,Active,0,0,No,No,4,13.01,Electronic,Radio,Lyrics Translation,Smart Speaker,2,15
+438,USA,51,22-05-2019,Premium Duo,Inactive,4,1,No,No,2,8.29,Country,Daily Mix,HiFi Audio,Desktop,9,6
+439,USA,35,29-04-2020,Free,Inactive,4,1,Yes,No,4,14.58,Pop,Discover Weekly,Concert Alerts,Car System,5,9
+440,Australia,21,07-11-2022,Premium Individual,Active,2,0,No,No,3,11.43,Bollywood,Playlists,HiFi Audio,Smart Speaker,7,7
+441,Canada,28,21-07-2018,Free,Active,0,0,Yes,No,1,6.26,Classical,Lyrics,HiFi Audio,Mobile,6,7
+442,Brazil,50,07-03-2022,Premium Individual,Inactive,3,1,No,No,4,14.05,Bollywood,Discover Weekly,Social Listening,Mobile,11,8
+443,Mexico,39,03-01-2023,Free,Active,1,0,Yes,Yes,4,7.12,Rock,Discover Weekly,Better AI Recommendations,Car System,10,7
+444,Spain,17,28-04-2023,Premium Individual,Active,2,0,No,No,4,13.17,Country,Playlists,HiFi Audio,Smart Speaker,7,6
+445,Indonesia,42,31-01-2025,Premium Duo,Active,0,0,No,No,4,9.78,Rock,Discover Weekly,Lyrics Translation,Smart Speaker,7,10
+446,Indonesia,56,12-10-2020,Free,Inactive,6,1,No,No,4,7.96,Classical,AI DJ,Social Listening,Desktop,6,11
+447,USA,18,16-07-2022,Free,Active,1,0,No,No,3,7.56,Country,Daily Mix,Mood-based Auto Playlists,Desktop,9,11
+448,Australia,18,19-03-2022,Premium Duo,Inactive,3,1,No,No,5,10.83,R&B,Playlists,HiFi Audio,Smart Speaker,9,6
+449,UK,20,16-03-2023,Free,Active,2,0,No,No,4,11.37,K-Pop,Lyrics,Mood-based Auto Playlists,Car System,4,7
+450,Brazil,32,11-09-2018,Premium Individual,Active,1,0,No,No,3,22.06,K-Pop,AI DJ,Lyrics Translation,Smart Speaker,13,15
+451,India,20,09-03-2020,Free,Inactive,9,1,No,No,5,8.15,Classical,Offline Mode,Lyrics Translation,Desktop,10,8
+452,Indonesia,33,16-10-2024,Premium Individual,Active,2,0,Yes,No,3,3.88,Hip-Hop,Offline Mode,Better AI Recommendations,Tablet,8,8
+453,India,55,04-10-2021,Free,Active,0,0,No,No,5,16.44,Rock,Discover Weekly,Mood-based Auto Playlists,Smart Speaker,10,8
+454,Italy,32,28-06-2018,Free,Inactive,5,1,No,No,4,7.67,R&B,Discover Weekly,HiFi Audio,Car System,8,17
+455,Brazil,60,14-01-2026,Premium Family,Inactive,7,1,No,No,3,13.71,Electronic,Lyrics,Better AI Recommendations,Car System,8,10
+456,Mexico,35,20-07-2021,Premium Individual,Active,3,1,Yes,No,4,10.94,Country,Podcasts,Mood-based Auto Playlists,Smart Speaker,11,5
+457,India,54,16-01-2018,Free,Active,0,0,No,No,3,15.54,R&B,Discover Weekly,Better AI Recommendations,Smart Speaker,14,4
+458,Canada,20,09-02-2025,Free,Active,2,0,Yes,No,2,10.44,Bollywood,Podcasts,Social Listening,Tablet,7,7
+459,Mexico,22,10-04-2018,Free,Inactive,5,1,Yes,No,1,17.13,Latin,Lyrics,Lyrics Translation,Smart Speaker,7,10
+460,Indonesia,45,01-05-2023,Premium Individual,Active,0,0,No,No,5,8.66,Classical,Lyrics,Better AI Recommendations,Desktop,8,13
+461,Italy,43,03-05-2022,Free,Active,0,0,Yes,No,4,10.93,Bollywood,Offline Mode,Lyrics Translation,Car System,11,8
+462,India,24,15-07-2023,Premium Family,Active,1,0,No,No,3,13.6,Jazz,Daily Mix,Concert Alerts,Car System,8,13
+463,Australia,27,27-07-2023,Premium Individual,Active,0,0,No,No,4,8.87,Classical,Playlists,Lyrics Translation,Smart Speaker,7,8
+464,India,35,05-02-2018,Premium Individual,Active,0,0,No,No,5,10.48,Jazz,Playlists,Better AI Recommendations,Mobile,11,10
+465,Spain,25,05-10-2025,Premium Individual,Active,0,0,No,No,2,14.62,Pop,Daily Mix,HiFi Audio,Mobile,7,13
+466,India,36,23-10-2024,Premium Individual,Active,1,0,Yes,Yes,3,14.49,Pop,AI DJ,Lyrics Translation,Mobile,12,9
+467,France,54,03-03-2023,Free,Inactive,5,1,Yes,No,4,8.83,Hip-Hop,Daily Mix,Social Listening,Desktop,10,13
+468,UK,48,20-11-2018,Student,Active,0,0,No,No,3,13,K-Pop,Radio,Concert Alerts,Smart Speaker,9,8
+469,France,26,19-03-2020,Premium Family,Inactive,4,1,Yes,No,4,8.18,Indie,Podcasts,Better AI Recommendations,Desktop,7,11
+470,France,42,09-10-2020,Premium Duo,Active,0,0,No,No,4,4.54,Bollywood,AI DJ,Concert Alerts,Mobile,8,13
+471,UK,57,23-09-2018,Premium Individual,Active,1,0,No,No,2,6.1,Rock,AI DJ,Lyrics Translation,Mobile,5,11
+472,Spain,50,19-05-2018,Free,Active,0,0,Yes,No,2,15.87,Electronic,Radio,Concert Alerts,Desktop,10,12
+473,Brazil,43,27-08-2021,Free,Active,0,0,Yes,Yes,4,15,Indie,Discover Weekly,Mood-based Auto Playlists,Desktop,9,8
+474,Italy,20,07-03-2019,Student,Active,1,0,No,No,4,6,Latin,Lyrics,Mood-based Auto Playlists,Car System,10,6
+475,UK,29,20-12-2020,Premium Individual,Active,0,0,Yes,No,5,10.95,Indie,AI DJ,HiFi Audio,Smart Speaker,6,7
+476,Canada,42,30-01-2019,Premium Individual,Active,2,0,No,No,4,11.97,Indie,Playlists,Lyrics Translation,Tablet,9,8
+477,Australia,44,04-08-2023,Student,Active,2,0,Yes,No,3,9.55,R&B,Radio,Social Listening,Desktop,11,12
+478,Canada,30,11-12-2019,Free,Active,2,0,No,No,3,8.9,Electronic,Discover Weekly,Better AI Recommendations,Smart Speaker,13,12
+479,UK,55,29-06-2019,Student,Active,0,0,Yes,No,3,7.74,R&B,Podcasts,HiFi Audio,Tablet,8,8
+480,Mexico,50,24-07-2025,Free,Active,0,0,Yes,Yes,5,15.36,Electronic,Playlists,Better AI Recommendations,Car System,5,6
+481,Germany,23,14-06-2025,Premium Individual,Active,1,0,No,No,4,2.48,Latin,Offline Mode,Mood-based Auto Playlists,Smart Speaker,10,4
+482,Spain,34,18-04-2021,Free,Active,0,0,No,No,5,6.42,Classical,Daily Mix,Lyrics Translation,Desktop,6,10
+483,Indonesia,52,18-02-2021,Premium Duo,Active,0,0,No,No,4,8.13,Latin,Daily Mix,Mood-based Auto Playlists,Smart Speaker,8,14
+484,Brazil,39,01-01-2021,Free,Active,4,1,No,No,4,12.05,Electronic,Radio,Mood-based Auto Playlists,Smart Speaker,6,10
+485,Spain,32,06-11-2020,Free,Inactive,4,1,No,No,3,8.91,Latin,Offline Mode,Social Listening,Mobile,12,11
+486,Australia,44,26-03-2020,Premium Individual,Active,0,0,No,No,4,14.93,Jazz,Playlists,Better AI Recommendations,Tablet,4,7
+487,Italy,27,10-10-2020,Free,Active,2,0,No,No,5,9.04,Bollywood,Podcasts,Social Listening,Car System,5,13
+488,UK,31,01-10-2020,Student,Active,0,0,No,No,3,13.16,Bollywood,Playlists,Better AI Recommendations,Mobile,5,7
+489,Indonesia,34,21-09-2019,Free,Active,0,0,No,No,5,8.19,Latin,Radio,HiFi Audio,Tablet,3,5
+490,France,20,26-06-2024,Premium Individual,Active,0,0,Yes,Yes,3,9.87,Pop,Podcasts,HiFi Audio,Mobile,8,6
+491,Indonesia,32,11-06-2022,Free,Active,0,0,No,No,5,16.86,Jazz,Radio,Concert Alerts,Mobile,11,10
+492,UK,48,04-10-2020,Free,Active,0,0,No,No,5,7.7,K-Pop,Podcasts,Better AI Recommendations,Car System,3,14
+493,France,22,26-11-2023,Free,Active,1,0,Yes,Yes,4,15.93,Classical,Radio,Concert Alerts,Mobile,9,10
+494,Australia,45,30-04-2025,Premium Individual,Active,0,0,No,No,5,14.16,Country,Offline Mode,HiFi Audio,Tablet,7,11
+495,Germany,22,01-06-2018,Free,Active,2,0,No,No,5,1.25,R&B,Lyrics,Lyrics Translation,Smart Speaker,9,12
+496,USA,46,19-01-2018,Free,Active,0,0,No,No,5,11.01,Pop,Lyrics,Mood-based Auto Playlists,Smart Speaker,7,10
+497,Italy,44,04-08-2020,Premium Individual,Active,2,0,No,No,4,12.22,Classical,AI DJ,HiFi Audio,Car System,4,8
+498,Mexico,34,12-03-2022,Free,Active,1,0,Yes,Yes,4,16.33,Jazz,Podcasts,Mood-based Auto Playlists,Tablet,3,13
+499,Brazil,28,11-08-2020,Premium Duo,Active,5,1,Yes,Yes,4,11.14,Rock,Lyrics,Lyrics Translation,Desktop,5,10
